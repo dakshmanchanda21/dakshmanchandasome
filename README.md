@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dakshmanchanda21
+- 👋 Hi, I’m Daksh Manchanda
 - 👀 I’m interested in App developement
 - 🌱 I’m currently learning C++,DSA 
 - 💞️ I’m looking to collaborate on Instagram : daksh_manchanda_

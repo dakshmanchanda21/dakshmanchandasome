@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daksh Manchanda
 - 👀 I’m interested in App developement
-- 🌱 I’m currently learning C++,DSA 
+- 🌱 I’m currently learning C++,DSA
 - 💞️ I’m looking to collaborate on Instagram : daksh_manchanda_
 - 📫 How to reach me dakshmanchanda30@gmail.com
 - 😄 Pronouns: he/him
